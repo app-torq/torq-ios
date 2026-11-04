@@ -34,6 +34,8 @@ torq's web interface is built for phones, too. Put it on your home screen and it
 - **iPhone / iPad (Safari):** open your torq address, tap **Share** → **Add to Home Screen**.
 - **Android (Chrome):** open your torq address, tap **⋮** → **Add to Home screen** (or **Install app**).
 
+It then opens in its own window and starts instantly; your data stays on your server. The [install guide](https://github.com/app-torq/torq/blob/main/docs/install-on-phone.md) has the details, including the iPhone note that the home-screen app needs its own sign-in.
+
 You need a running [torq server](https://github.com/app-torq/torq#quick-start), or try the [demo](https://demo.torq-app.tech) first (user `demo`, password `password123`).
 
 ## What was planned
